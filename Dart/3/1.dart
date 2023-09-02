@@ -1,1 +1,3 @@
-class{}
+class name {
+  String? _name;
+}
